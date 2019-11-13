@@ -1,0 +1,10 @@
+#Output class TestPertamaKedua
+Nilai b : 0
+Method ini hanya untuk anaknya
+a = 10
+Dipanggil pada = inheritance1.Kedua
+a = 10
+Dipanggil pada = inheritance1.Kedua
+Method ini hanya untuk anaknya
+a = 10
+Dipanggil pada = inheritance1.Pertama
