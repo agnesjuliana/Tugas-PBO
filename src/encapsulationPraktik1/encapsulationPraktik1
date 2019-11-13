@@ -1,0 +1,19 @@
+#Output class Jalankan
+Masukkan jumlah maksimal penumpang
+20
+Masukkan jumlah penumpang yang naik ke bus
+4
+Berat penumpang ke-1
+23
+Berat penumpang ke-2
+33
+Berat penumpang ke-3
+44
+Berat penumpang ke-4
+45
+======================================
+Penumpang bus sekarang adalah 4
+Jumlah penumpang maksimal adalah 20
+Jumlah berat penumpang 145
+Rata rata berat penumpang adalah 36
+======================================
