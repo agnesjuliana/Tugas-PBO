@@ -1,0 +1,7 @@
+#Outputclass TestShape
+s1
+luasnya adalah 20.0
+datanya Rectangle [length=4,width =5,Shape [colors = red]]
+s1
+luasnya adalah 10.0
+datanya Triangle [base = 4,height = 5,]
